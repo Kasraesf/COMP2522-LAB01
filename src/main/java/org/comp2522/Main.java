@@ -1,10 +1,10 @@
-package org.example;
+package org.comp2522;
 
 /**
  * Main Class.
  */
 public class Main {
   public static void main(String[] args) {
-    System.out.println("My favourite Soccer team is Real Madrid.");
+    System.out.println("My favourite soccer team is Real Madrid.");
   }
 }
